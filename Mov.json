@@ -7133,9 +7133,15 @@
             "name": "Contrarreloj",
             "links": [
                 {
-                    "quality": "Latino SD",
+                    "quality": "Latino HD",
                     "url": "https:\/\/uqload.io\/embed-g2av5secbc0t.html",
                     "type": "Uqload",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/wishembed.pro\/e\/l88u1o9hpipa",
+                    "type": "Streamwish",
                     "size": ""
                 },
                 {
@@ -7429,6 +7435,30 @@
                 {
                     "quality": "Dual",
                     "url": "https:\/\/wishembed.pro\/e\/6qjae4nre0ap",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "575264",
+            "name": "Misi\u00f3n: Imposible - Sentencia mortal parte uno",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/filemoon.sx\/e\/ynwoipeljinn",
+                    "type": "Filemoon",
+                    "size": ""
+                },
+                {
+                    "quality": "Castellano",
+                    "url": "https:\/\/wishembed.pro\/e\/zlla4ezf6vj3",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Dual",
+                    "url": "https:\/\/wishembed.pro\/e\/7tjg9zrtvhe2",
                     "type": "Streamwish",
                     "size": ""
                 }
