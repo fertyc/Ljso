@@ -7895,6 +7895,30 @@
                     "size": ""
                 }
             ]
+        },
+        {
+            "id": "572802",
+            "name": "Aquaman y el reino perdido",
+            "links": [
+                {
+                    "quality": "Latino CAM",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxha0RnWDkvbm9FaDdPVFpBcERRWWhDNzNlL2tkby9FK2dPVGViSDFJNVJSYg==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg&server=recomendado&dist=cb3030",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=RjdpSFZHcHcvRyszMXdQaVV1Y3JmMWhNK3FOMTBwdU11b1lBdktqblc1MD0=&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg&server=recomendado&dist=cb3030",
+                    "type": "Voesx",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 3",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=Zk0xUXo2UHFRUkxyblpVYXl6ZUdMYkVoWlRsWGhTdlQ1OUZwbmdzblVuVT0=&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg&server=&dist=cb3030",
+                    "type": "DoodStream",
+                    "size": ""
+                }
+            ]
         }
     ]
 }
