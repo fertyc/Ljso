@@ -20,9 +20,9 @@
   {
     "id": 3,
     "name": "Win Sports +",
-    "banner": "http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8",
+    "banner": "https://i.imgur.com/IfB4pUd.png",
     "stream_type": "m3u8",
-    "url": "http://ejemplo.com/stream3",
+    "url": "http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8",
     "user_agent": "Mozilla/5.0",
     "referer": ""
   }
