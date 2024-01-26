@@ -4,20 +4,23 @@
     "name": "FOX Sports Premium",
     "banner": "https://i.imgur.com/XZ5pR4M.png",
     "stream_type": "m3u8",
-    "url": "http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8"
+    "url": "http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8",
+	"user_agent"; ""
   },
   {
     "id": 2,
     "name": "Univisión",
     "banner": "https://i.imgur.com/sCMrEpW.png",
-    "stream_type": "Embed",
-    "url": "https://www.telegratishd.com/live/univision.php"
+    "stream_type": "m3u8",
+    "url": "http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8",
+	"user_agent"; ""
   },
   {
     "id": 3,
     "name": "Win Sports +",
     "banner": "https://i.imgur.com/IfB4pUd.png",
     "stream_type": "m3u8",
-    "url": "http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8"
+    "url": "http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8",
+	"user_agent"; ""
   }
 ]
