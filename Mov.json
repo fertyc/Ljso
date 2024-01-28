@@ -5292,7 +5292,13 @@
             "links": [
                 {
                     "quality": "Latino HD",
-                    "url": "https:\/\/wishembed.pro\/e\/yq7w6vu2ddqw",
+                    "url": "https:\/\/ds2play.com\/e\/h2ukpure4pbc",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhdHJZQVFMZFhEWTZuKzFPTjZjU3RYeHFWQXR5cUNoYVlYUURXV0JVeGNsNA==&bg=\/\/www.themoviedb.org\/t\/p\/original\/vbt3n34eNLBJHIBtRnmKPbHD5G0.jpg&server=recomendado",
                     "type": "Streamwish",
                     "size": ""
                 },
@@ -8399,15 +8405,21 @@
             "name": "Noche de paz",
             "links": [
                 {
-                    "quality": "Latino CAM",
-                    "url": "https:\/\/ds2play.com\/e\/4zzzrt65dr4w",
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/cf7fygys0g2x",
                     "type": "DoodStream",
                     "size": ""
                 },
                 {
-                    "quality": "Subtitulado CAM",
-                    "url": "https:\/\/ds2play.com\/e\/nz0ben38zxc7",
-                    "type": "DoodStream",
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhakxkRGZQaFFXV3lqYytNanFBK3gvcEVmR1J2SnMxR01hU1l3bkVLeFVSOQ==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/w1ZeZ8XYTBCovnXi9bwi7D7glM4.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Subtitulado",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhbFUrajZBci9YYWlsdDByNjE4RkE0K3JPU1hqbjdkUTBHeTU4eEhBNzk1UQ==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/w1ZeZ8XYTBCovnXi9bwi7D7glM4.jpg&server=recomendado",
+                    "type": "Streamwish",
                     "size": ""
                 }
             ]
@@ -9235,6 +9247,150 @@
                 {
                     "quality": "Castellano opc 2",
                     "url": "https:\/\/streamwish.to\/e\/2y0maakfnuc2",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "1072342",
+            "name": "La piscina",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/g3yvmvowa4zu",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhaVFtOWR5RFlJbWlnL3dhNXBMb2FjR09SVVlzVGJCWWhyeDBuT05WcktvUw==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/klb3yODwKMRle19EcvdeSatEZL7.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "1072790",
+            "name": "Cualquiera menos t\u00fa",
+            "links": [
+                {
+                    "quality": "Latino CAM",
+                    "url": "https:\/\/ds2play.com\/e\/c4v12gq0ff4z",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhdXJFamxrZHBrQXJ2cmlJSHhXZEZ1Rm9vRnM3Myt3Y09pYldVS0VLUW4rLw==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/1PkBhxXdEejw8c5BC7T3cN7jz9g.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "792307",
+            "name": "Pobres criaturas",
+            "links": [
+                {
+                    "quality": "Latino CAM",
+                    "url": "https:\/\/ds2play.com\/e\/uryeh6m2lt0e",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhdjBiUFRhSlE0R3Zvek53ZHVHUEJIeUl1WmZoVXYreTQ4bGFVSkl4V2lnVQ==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/gsVC7HMf4VR2XFOyqjTSklY2Tms.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Subtitulado",
+                    "url": "https:\/\/ds2play.com\/e\/fppoqkiee8rm",
+                    "type": "DoodStream",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "1212073",
+            "name": "60 minutos",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/qope2z14an2i",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhaXB2d2ROQm43aGdWTUhza1cyOGhhK1dKdTZzUnNOQXFmZHo3OGFIaXRkWA==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/adNMDatnEnIEo4LUo1KyhouP6VA.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Castellano",
+                    "url": "https:\/\/ds2play.com\/e\/xxy8cqzcnlg6",
+                    "type": "DoodStream",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "854006",
+            "name": "La Aldea Siniestra",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/5lhe8n6rnp07",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhb3ZzRlVodDB6UjY2TG9kZnBOcWRQa2puWlFXRitZT2pheUVISE90Ym5RUA==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/v5647AfhXyuJ6nVvLyfjJV89yss.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                },
+                {
+                    "quality": "Subtitulado",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhclpvOGN2aFpEZWNWMEh6WlN5NWlEbTN5N1E0QVJVT0xwaFByZWticExIaQ==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/v5647AfhXyuJ6nVvLyfjJV89yss.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "799155",
+            "name": "Misi\u00f3n Ataque",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/f62i32yailqu",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhdStGQmxWSkR1MGFRa2UrcC90cExsRHV0SVRjVEdYUXBTUVhZQmpOcnNwRQ==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/ba9TgAO4I8RyA2LljzR3MspHaM9.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
+        },
+        {
+            "id": "924763",
+            "name": "Lucha por sobrevivir",
+            "links": [
+                {
+                    "quality": "Latino HD",
+                    "url": "https:\/\/ds2play.com\/e\/sg4xxllxzaj5",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Latino opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhdWp2cXh6T2pvUVpCbzlORDQ1Vy9ncUVuRFJKM1U5bTMvY1hYYUxrZk9pTA==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/vUusbRUPQjU85z3mq9rp2r1GYvf.jpg&server=recomendado",
                     "type": "Streamwish",
                     "size": ""
                 }
