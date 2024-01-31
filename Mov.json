@@ -9395,6 +9395,24 @@
                     "size": ""
                 }
             ]
+        },
+        {
+            "id": "982940",
+            "name": "P\u00e1lido",
+            "links": [
+                {
+                    "quality": "Castellano HD",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=Zk0xUXo2UHFRUkxyblpVYXl6ZUdMWmxkYnV0ek1JaEtNaXdZTk9sUmNvWT0=&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/1BFLsVxE1NzCIwicfOPtzzB4Kxh.jpg&server=",
+                    "type": "DoodStream",
+                    "size": ""
+                },
+                {
+                    "quality": "Castellano opc 2",
+                    "url": "https:\/\/es.oceanplay.me\/external\/v2\/external.php?h=b20rZGk1YS9nTUJDdjlmajJheGxhcUNoYmtBeFo5aWZPM3E2Y0RONnpPcTVZVWkrWFlKbEQ2TVdnU09VcDdrag==&bg=\/\/www.themoviedb.org\/t\/p\/w1280\/1BFLsVxE1NzCIwicfOPtzzB4Kxh.jpg&server=recomendado",
+                    "type": "Streamwish",
+                    "size": ""
+                }
+            ]
         }
     ]
 }
