@@ -665,6 +665,66 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "1396",
+            "name": "Breaking Bad",
+            "links": [
+                {
+                    "season": "1",
+                    "episode": "1",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ds2play.com\/e\/zsf4dmvrknfi",
+                            "type": "DoodStream",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado HD",
+                            "url": "https:\/\/ds2play.com\/e\/stahce2t6d0l",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "2",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ds2play.com\/e\/0d8x78aqtb7s",
+                            "type": "DoodStream",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado HD",
+                            "url": "https:\/\/ds2play.com\/e\/yyyqcpm7hoer",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "4",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ds2play.com\/e\/mt5t1wcsib8h",
+                            "type": "DoodStream",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado HD",
+                            "url": "https:\/\/ds2play.com\/e\/a4b7i1upm6hy",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
