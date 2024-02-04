@@ -708,6 +708,18 @@
                 },
                 {
                     "season": "1",
+                    "episode": "3",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ds2play.com\/e\/48qjk58f2jlm",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
                     "episode": "4",
                     "urls": [
                         {
@@ -719,6 +731,18 @@
                         {
                             "quality": "Subtitulado HD",
                             "url": "https:\/\/ds2play.com\/e\/a4b7i1upm6hy",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "6",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ds2play.com\/e\/4g8o5xsse637",
                             "type": "DoodStream",
                             "size": ""
                         }
