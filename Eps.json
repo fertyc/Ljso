@@ -749,6 +749,36 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "134949",
+            "name": "Rebelde",
+            "links": [
+                {
+                    "season": "1",
+                    "episode": "1",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-bw0n1qsvsx2j.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "2",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-auut4dts4bau.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
