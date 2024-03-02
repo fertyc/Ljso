@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "name": "FOX Sports 1",
-    "banner": "https://i.imgur.com/rMt4skq.jpg.png",
-    "type": "mp4",
-    "url": "http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/152",
+    "name": "HBO",
+    "banner": "https://television-libre.online/img/hbo.webp",
+    "type": "Embed",
+    "url": "https://television-libre.online/html/clarovideo.html?r=HBO",
     "user_agent": "",
     "referer": ""
   },
   {
     "id": 2,
-    "name": "Univisión",
-    "banner": "https://i.imgur.com/sCMrEpW.png",
-    "type": "m3u8",
-    "url": "http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8",
+    "name": "HBO 2",
+    "banner": "https://television-libre.online/img/hbo2.webp",
+    "type": "Embed",
+    "url": "https://television-libre.online/html/clarovideo.html?r=HBO2",
     "user_agent": "",
     "referer": ""
   },
   {
     "id": 3,
-    "name": "Win Sports +",
-    "banner": "https://i.imgur.com/IfB4pUd.png",
-    "type": "mp4",
-    "url": "http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926",
+    "name": "Fox Sports Premium",
+    "banner": "https://television-libre.online/img/foxpr.png",
+    "type": "Embed",
+    "url": "https://television-libre.online/html/clarovideo.html?r=FOXSPORTSPREMIUMMX",
     "user_agent": "",
     "referer": ""
   },
