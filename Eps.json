@@ -738,11 +738,35 @@
                 },
                 {
                     "season": "1",
+                    "episode": "5",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/d0000d.com\/e\/8spd4qfypo6s",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
                     "episode": "6",
                     "urls": [
                         {
                             "quality": "Latino HD",
                             "url": "https:\/\/ds2play.com\/e\/4g8o5xsse637",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "7",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/d0000d.com\/e\/mgz39phiz79s",
                             "type": "DoodStream",
                             "size": ""
                         }
