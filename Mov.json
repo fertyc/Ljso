@@ -1,22 +1,4 @@
 {
     "movies": [
-        {
-            "id": "653346",
-            "name": "El reino del planeta de los simios",
-            "links": [
-                {
-                    "quality": "Latino CAM",
-                    "url": "https:\/\/d000d.com\/e\/w66s7ejbdh9l",
-                    "type": "DoodStream",
-                    "size": ""
-                },
-                {
-                    "quality": "Latino CAM",
-                    "url": "https:\/\/streamwish.to\/e\/tiap9la3hmje",
-                    "type": "Streamwish",
-                    "size": ""
-                }
-            ]
-        }
     ]
 }
