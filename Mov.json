@@ -1,22 +1,4 @@
 {
     "movies": [
-        {
-            "id": "762441",
-            "name": "Un lugar tranquilo: D\u00eda uno",
-            "links": [
-                {
-                    "quality": "Latino CAM",
-                    "url": "https:\/\/embedwish.com\/e\/zd4lbj44yyll",
-                    "type": "Embedwish",
-                    "size": ""
-                },
-                {
-                    "quality": "Subtitulado CAM",
-                    "url": "https:\/\/d000d.com\/e\/g4wcxf56ml00",
-                    "type": "DoodStream",
-                    "size": ""
-                }
-            ]
-        }
     ]
 }
