@@ -1,34 +1,4 @@
 {
     "movies": [
-        {
-            "id": "1087822",
-            "name": "Hellboy: The Crooked Man",
-            "links": [
-                {
-                    "quality": "Latino HD",
-                    "url": "https:\/\/dood.li\/e\/mzh8xcim8ddl?",
-                    "type": "DoodStream",
-                    "size": ""
-                },
-                {
-                    "quality": "Latino HD",
-                    "url": "https:\/\/filemoon.sx\/e\/uw4u273hhtuh",
-                    "type": "Filemoon",
-                    "size": ""
-                },
-                {
-                    "quality": "Subtitulado",
-                    "url": "https:\/\/doodstream.com\/e\/eeel4vvo5xn4?",
-                    "type": "DoodStream",
-                    "size": ""
-                },
-                {
-                    "quality": "Latino Opc 2",
-                    "url": "https:\/\/vidhidepro.com\/v\/txy7et91eucj",
-                    "type": "VidHide",
-                    "size": ""
-                }
-            ]
-        }
     ]
 }
