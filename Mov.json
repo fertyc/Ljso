@@ -1,22 +1,4 @@
 {
     "movies": [
-        {
-            "id": "1354627",
-            "name": "Bob Esponja: Campamento del Terror",
-            "links": [
-                {
-                    "quality": "Subtitulado",
-                    "url": "https:\/\/embed69.org\/f\/tt31227909\/",
-                    "type": "Embed",
-                    "size": ""
-                },
-                {
-                    "quality": "Subtitulado",
-                    "url": "https:\/\/vidsrc.xyz\/embed\/movie?imdb=tt31227909&ds_lang=es",
-                    "type": "VidSrc",
-                    "size": ""
-                }
-            ]
-        }
     ]
 }
