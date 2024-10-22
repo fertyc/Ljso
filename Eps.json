@@ -1,4 +1,46 @@
 {
     "episodes": [
+        {
+            "id": "236994",
+            "name": "Dragon Ball Daima",
+            "links": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "urls": [
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/embedwish.com\/e\/gkk6isydgh4m",
+                            "type": "Embedwish",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/doodstream.com\/e\/foyxzd86ebzm",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "urls": [
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/embedwish.com\/e\/vf2b7douvvah",
+                            "type": "StreamW",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/doodstream.com\/e\/jc04rm334onr",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
