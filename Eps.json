@@ -1,6 +1,204 @@
 {
     "episodes": [
         {
+            "id": "134949",
+            "name": "Rebelde",
+            "links": [
+                {
+                    "season": "1",
+                    "episode": "1",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-bw0n1qsvsx2j.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "2",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-auut4dts4bau.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "3",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-787egk7h9c8t.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "4",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-b2m793zi3vih.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "5",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-e2o7v1fiz1ir.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "6",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-m9a1s6ijmuy8.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "7",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-x7l3r21w7af3.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "1",
+                    "episode": "8",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/uqload.to\/embed-4k98sd2l6e0a.html",
+                            "type": "Uqload",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "1",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/rgyz8dw1hc8z",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "2",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/5o8iimoph77u",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "3",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/nwc2meo4zrn5",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "4",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/8epx44iu8cte",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "5",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/n77yno9qwnlk",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "6",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/ondg6ywc7j9e",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "7",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/8jayniupiygg",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": "2",
+                    "episode": "8",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/dood.li\/e\/m605iaoilqxa",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "236994",
             "name": "Dragon Ball Daima",
             "links": [
@@ -35,6 +233,24 @@
                         {
                             "quality": "Subtitulado",
                             "url": "https:\/\/doodstream.com\/e\/jc04rm334onr",
+                            "type": "DoodStream",
+                            "size": ""
+                        }
+                    ]
+                },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "urls": [
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/streamwish.to\/e\/nzcpuj41rvzn",
+                            "type": "Streamwish",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/doodstream.com\/e\/hdh8swo6mfjs",
                             "type": "DoodStream",
                             "size": ""
                         }
