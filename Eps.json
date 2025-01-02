@@ -227,7 +227,7 @@
                         {
                             "quality": "Subtitulado",
                             "url": "https:\/\/streamwish.to\/e\/vf2b7douvvah",
-                            "type": "Streamwish",
+                            "type": "Embedwish",
                             "size": ""
                         },
                         {
@@ -245,79 +245,13 @@
                         {
                             "quality": "Subtitulado",
                             "url": "https:\/\/streamwish.to\/e\/nzcpuj41rvzn",
-                            "type": "Streamwish",
+                            "type": "StreamW",
                             "size": ""
                         },
                         {
                             "quality": "Subtitulado",
                             "url": "https:\/\/doodstream.com\/e\/hdh8swo6mfjs",
                             "type": "DoodStream",
-                            "size": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "1399",
-            "name": "Juego de tronos",
-            "links": [
-                {
-                    "season": "1",
-                    "episode": "1",
-                    "urls": [
-                        {
-                            "quality": "Embed test",
-                            "url": "https:\/\/e.playhublite.com\/e\/558449",
-                            "type": "Embed",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Latino test 1",
-                            "url": "https:\/\/iplayerhls.com\/e\/5vefljbv6o56",
-                            "type": "Embedwish",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Latino test 2",
-                            "url": "https:\/\/streamwish.to\/e\/5vefljbv6o56",
-                            "type": "StreamW",
-                            "size": ""
-                        }
-                    ]
-                },
-                {
-                    "season": "1",
-                    "episode": "2",
-                    "urls": [
-                        {
-                            "quality": "Subtitulado",
-                            "url": "https:\/\/pelisplay.info\/streamhd?id=MTE2NjA=",
-                            "type": "Embed",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Subtitulado",
-                            "url": "https:\/\/wishembed.pro\/e\/8dtfmo1htbex",
-                            "type": "Embedwish",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Latino",
-                            "url": "https:\/\/dood.li\/e\/x15udrivxy41",
-                            "type": "DoodStream",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Latino",
-                            "url": "https:\/\/pelisplay.info\/streamhd?id=MTE2NjA=&option=latin",
-                            "type": "Embed",
-                            "size": ""
-                        },
-                        {
-                            "quality": "Latino",
-                            "url": "https:\/\/wishembed.pro\/e\/780k4hxdflls",
-                            "type": "Embedwish",
                             "size": ""
                         }
                     ]
