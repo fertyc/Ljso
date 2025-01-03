@@ -255,18 +255,6 @@
                             "size": ""
                         }
                     ]
-                },
-                {
-                    "season": "1",
-                    "episode": "4",
-                    "urls": [
-                        {
-                            "quality": "Subtitulado",
-                            "url": "https:\/\/multiembed.mov\/?video_id=236994&tmdb=1&s=1&e=4",
-                            "type": "Embed",
-                            "size": ""
-                        }
-                    ]
                 }
             ]
         }
