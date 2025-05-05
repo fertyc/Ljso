@@ -255,30 +255,6 @@
                             "size": ""
                         }
                     ]
-                },
-                {
-                    "season": "1",
-                    "episode": "4",
-                    "urls": [
-                        {
-                            "quality": "test v1",
-                            "url": "https://vidsrc.net/embed/movie?tmdb=385687",
-                            "type": "VidSrc",
-                            "size": ""
-                        },
-                        {
-                            "quality": "test v2",
-                            "url": "https://vidhidepro.com/embed/45cgjr25m6o0",
-                            "type": "VidHide",
-                            "size": ""
-                        },
-                        {
-                            "quality": "test v3",
-                            "url": "https://voe.sx/e/8bcs6ej9qodk",
-                            "type": "Voesx",
-                            "size": ""
-                        }
-                    ]
                 }
             ]
         }
