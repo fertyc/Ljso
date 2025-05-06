@@ -1,22 +1,4 @@
 {
     "movies": [
-        {
-            "id": "974573",
-            "name": "Otro pequeño favor",
-            "links": [
-                {
-                    "quality": "Opc 1",
-                    "url": "https:\/\/vidsrc.net\/embed\/movie?tmdb=974573",
-                    "type": "VidSrc",
-                    "size": ""
-                },
-                {
-                    "quality": "Opc 2",
-                    "url": "https:\/\/vidhidepro.com\/embed\/a8732n3g1fy6",
-                    "type": "VidHide",
-                    "size": ""
-                }
-            ]
-        }
     ]
 }
