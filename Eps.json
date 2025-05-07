@@ -255,6 +255,30 @@
                             "size": ""
                         }
                     ]
+                },
+                {
+                    "season": "1",
+                    "episode": "4",
+                    "urls": [
+                        {
+                            "quality": "Latino HD",
+                            "url": "https:\/\/ryderjet.com\/embed\/4q3zdxilwmry",
+                            "type": "VidHide",
+                            "size": ""
+                        },
+                        {
+                            "quality": "Subtitulado",
+                            "url": "https:\/\/voe.sx\/e\/2jbvyapkrtvd",
+                            "type": "Voesx",
+                            "size": ""
+                        },
+                        {
+                            "quality": "test embed",
+                            "url": "https:\/\/vidsrc.net\/embed\/movie?tmdb=385687",
+                            "type": "VidSrc",
+                            "size": ""
+                        }
+                    ]
                 }
             ]
         }
