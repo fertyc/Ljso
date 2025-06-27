@@ -239,6 +239,31 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "1399",
+            "name": "Juego de tronos",
+            "links": [
+                {
+                    "season": "1",
+                    "episode": "1",
+                    "urls": [
+                        {
+                            "quality": "test 1",
+                            "url": "https://seraphinapl.com/f/4q3zdxilwmry",
+                            "type": "VidHide",
+                            "size": ""
+                        },
+                        {
+                            "quality": "test 2",
+                            "url": "https://vidsrc.xyz/embed/tv?tmdb=1399&season=1&episode=1",
+                            "type": "VidSrc",
+                            "size": ""
+                        }
+
+                    ]
+                }
+            ]
         }
     ]
 }
