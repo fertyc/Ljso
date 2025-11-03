@@ -2,7 +2,7 @@
   {
     "name": "Espn Premium",
     "banner": "https://imgur.com/HtfxFak.png",
-    "type": "Embed",
+    "type": "m3u8",
     "url": "https://embed.ksdjugfsddeports.com/embed/espnpremium.html"
   },
   {
