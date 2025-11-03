@@ -1,33 +1,15 @@
 [
   {
     "id": 1,
-    "name": "HBO",
-    "banner": "https://television-libre.online/img/hbo.webp",
+    "name": "Espn Premium",
+    "banner": "https://imgur.com/HtfxFak.png",
     "type": "Embed",
-    "url": "https://television-libre.online/html/clarovideo.html?r=HBO",
+    "url": "https://embed.ksdjugfsddeports.com/embed/espnpremium.html",
     "user_agent": "",
     "referer": ""
   },
   {
     "id": 2,
-    "name": "HBO 2",
-    "banner": "https://television-libre.online/img/hbo2.webp",
-    "type": "Embed",
-    "url": "https://television-libre.online/html/clarovideo.html?r=HBO2",
-    "user_agent": "",
-    "referer": ""
-  },
-  {
-    "id": 3,
-    "name": "Fox Sports Premium",
-    "banner": "https://television-libre.online/img/foxpr.png",
-    "type": "Embed",
-    "url": "https://television-libre.online/html/clarovideo.html?r=FOXSPORTSPREMIUMMX",
-    "user_agent": "",
-    "referer": ""
-  },
-  {
-    "id": 4,
     "name": "Sin Tetas no paraiso",
     "banner": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
     "type": "m3u8",
