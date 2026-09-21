@@ -5,20 +5,8 @@
             "name": "Gente que conocemos en vacaciones",
             "links": [
                 {
-                    "quality": "Ingles 1",
-                    "url": "https://player.vidlove.cc/embed/movie/1034716",
-                    "type": "VidEmbed",
-                    "size": ""
-                },
-                {
-                    "quality": "Ingles 2",
+                    "quality": "Ingles",
                     "url": "https://vidlink.pro/movie/1034716",
-                    "type": "VidEmbed",
-                    "size": ""
-                },
-                {
-                    "quality": "Ingles 3",
-                    "url": "https://vidsrc.sh/embed/movie/1034716?ds_lang=es",
                     "type": "VidEmbed",
                     "size": ""
                 }
